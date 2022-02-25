@@ -1,8 +1,12 @@
-👋 Hi there 👋, my name is Shireen  
+👋 Hi there 👋, my name is Shireen
+
 <img src="https://github.com/shinuqureshi/shinuqureshi/blob/main/Hnet.com-image.jpg" alt="banner Shireen Qureshi - software developer, dataanalyst">
 #### Development  || coding ,data analyst
 I’m @shireenqureshi from India. I do design and development . I really enjoy learning languages and framework like Spring boot  &  React  Js etc . 
-currently working on  microservices architecture using java8
+currently working on  microservices architecture using java8. 
+• Have 1.9 year experience in IT field in software development e-commerce / insurance domain
+• Hands on experience in java , Spring boot , Rest Api microservices , PostgreSql
+• Worked on insurance domain application using java springFramework and hibernate.
 
 ## Skills & Experience 
 <table><tr><td valign="top" width="33%">
