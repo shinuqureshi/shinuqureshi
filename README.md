@@ -3,19 +3,21 @@
 I’m @shireenqureshi from India. I do design and development . I really enjoy learning languages and framework like Spring boot  &  React  Js etc . 
 currently working on  microservices architecture using java8 
 
-## Skills & Experience
-<table><tr><td valign="top" width="30%">
- 
+## Skills & Experience 
+<table><tr><td valign="top" width="33%">
+
+
+
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 </div>
 
-</td><td valign="top" width="30%">
- 
- 
-<table><tr><td valign="top" width="30%">
- ###  Backend  
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -25,7 +27,19 @@ currently working on  microservices architecture using java8
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
 </div>
-</td><td valign="top" width="30%">
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+</div>
+
+</td></tr></table> 
+
 
  
 - 🔭 I’m currently working on e-commerce project 
