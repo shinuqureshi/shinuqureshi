@@ -1,5 +1,5 @@
 👋 Hi there 👋, my name is Shireen  
-<img src="https://github.com/shinuqureshi/shinuqureshi/blob/main/header.png" alt="banner Shireen Qureshi - software developer, dataanalyst">
+<img src="https://github.com/shinuqureshi/shinuqureshi/blob/bc5a069deabf5c690d549a35835ad527983153e7/shireen.jpg" alt="banner Shireen Qureshi - software developer, dataanalyst">
 #### Development  || coding ,data analyst
 I’m @shireenqureshi from India. I do design and development . I really enjoy learning languages and framework like Spring boot  &  React  Js etc . 
 currently working on  microservices architecture using java8
