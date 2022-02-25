@@ -52,4 +52,7 @@ currently working on  microservices architecture using java8
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=shinuqureshi&show_icons=false&theme=radical)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=shinuqureshi&show_icons=false&theme=radical)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=shinuqureshi&show_icons=false&theme=radical) 
+
+<img style=”margin: 10px” src=”https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt=”React” height=”50" />
+
