@@ -4,7 +4,7 @@
 #### Development  || coding ,data analyst
 I’m @shireenqureshi from India. I do design and development . I really enjoy learning languages and framework like Spring boot  &  React  Js etc . 
 currently working on  microservices architecture using java8. 
-• Have 1.9 year experience in IT field in software development e-commerce / insurance domain
+• Have 2.3 year experience in IT field in software development e-commerce / insurance domain
 • Hands on experience in java , Spring boot , Rest Api microservices , PostgreSql
 • Worked on insurance domain application using java springFramework and hibernate.
 
@@ -46,9 +46,10 @@ currently working on  microservices architecture using java8.
 </td></tr></table> 
 
 
- 
-- 🔭 I’m currently working on e-commerce project 
-- 🌱 I’m currently learning REACT  
+-💻  Currently working on insurance domain project 
+- 🔭 I have  worked  on e-commerce project 
+- 🌱 I’m currently learning REACT 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shinuqureshi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/shireen-qureshi-51b684203/)  
